@@ -1,0 +1,1 @@
+# Checking-an-array-of-numbers-divisible-by-2
